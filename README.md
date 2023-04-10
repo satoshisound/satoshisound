@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satoshisound
-- 👀 I’m interested in Bitcoin, Lightning Network, Golang, App Development
+- 👀 I’m interested in Bitcoin, Lightning Network, Golang, App Development, Svelte, Nostr, Slashtags, and related tech
 - 🌱 I’m currently learning Svelte, Golang, C++, and Qt/QML
 - 💞️ I’m looking to collaborate on Bitcoin and related tech
 - 📫 How to reach me satoshisound@protonmail.com
