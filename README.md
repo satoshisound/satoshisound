@@ -17,8 +17,6 @@
 
 - [Keys.Band](https://github.com/toastr-space/keys-band), a free, open source, [Nostr](https://nostr.com) signing extension.
 
-- Stealth Nostr project... TBA
-
 ### Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
