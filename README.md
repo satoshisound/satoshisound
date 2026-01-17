@@ -15,12 +15,14 @@
 
 ### Currently Working On
 
+- [COINCUBE.IO](https://github.com/coincubetech/coincube), a free, open source, Bitcoin wallet for Linux/iOS/Windows.
 - [Keys.Band](https://github.com/toastr-space/keys-band), a free, open source, [Nostr](https://nostr.com) signing extension.
 
 ### Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/go-027d9c?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/go-027d9c?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ![Svelte](https://img.shields.io/badge/svelte-2e2e2e?style=for-the-badge&logo=svelte&logoColor=%2e2e2e)
 ![Vite](https://img.shields.io/badge/vite-2e2e2e?style=for-the-badge&logo=vite&logoColor=white)
